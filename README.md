@@ -1,5 +1,4 @@
-# LIVE PROJECT DEMO
-(https://relaxed-jalebi-91d850.netlify.app/)
+
 
 # Getting Started with Create React App
 
