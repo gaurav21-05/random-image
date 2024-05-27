@@ -1,0 +1,31 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+.random-image-container {
+  background-color: white;
+  position: relative;
+  border-radius: 5px;
+  padding: 10px 50px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.random-image {
+  max-width: 400px;
+  max-height: 400px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.share-buttons {
+  margin-top: 10px;
+}
+
+.share-buttons button {
+  margin-right: 10px;
+}
